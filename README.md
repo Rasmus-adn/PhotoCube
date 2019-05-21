@@ -1,4 +1,4 @@
-# The official PhotoCube Client and Server implementations.
+# The official PhotoCube Client and Server implementations
 ## Info:
 This PhotoCube Client and Server implementations are made prototype applications developed for research purposes by Peter Øvergård Clausen as part of his MSc. thesis in Software Development at the IT University of Copenhagen.
 
