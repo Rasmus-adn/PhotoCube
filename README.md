@@ -1,4 +1,4 @@
-# MSc. Thesis - PhotoCube Client and Server implementations.
+# The official PhotoCube Client and Server implementations.
 ## Info:
 This PhotoCube Client and Server implementations are made prototype applications developed for research purposes by Peter Øvergård Clausen as part of his MSc. thesis in Software Development at the IT University of Copenhagen.
 
@@ -26,7 +26,7 @@ Please restart your computer after installing the frameworks, before trying out 
 Either clone this repository or download it as a zip file with the green button on the top-right of this page.
 
 ## Download the dataset:
-Ask Björn Thór Jónsson for the dataset: [bjth@itu.dk](mailto:bjth@itu.dk).
+Ask Björn Thór Jónsson for the Laugavegur dataset: [bjth@itu.dk](mailto:bjth@itu.dk).
 
 ## Installing and running the server:
 ### Step 0: Open the ObjectCubeServer solution file in Visual Studio:
