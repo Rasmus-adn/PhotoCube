@@ -29,6 +29,9 @@ namespace ConsoleAppForInteractingWithDatabase
                 case "DESKTOP-EO6T94J": //Laptop
                     pathToDataset = @"C:\LaugavegurData2\LaugavegurData";
                     break;
+                case "DESKTOP-KPFSER1": //Laptop
+                    pathToDataset = @"C:\Users\mikke\Desktop\LaugavegurData";
+                    break;
                 default:
                     throw new Exception("ComputerName is unknown, please specify path to dataset!");
                     pathToDataset = @"?";

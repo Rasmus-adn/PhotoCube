@@ -130,6 +130,9 @@ namespace ObjectCubeServer.Models.DataAccess
                 case "DESKTOP-EO6T94J": //Laptop
                     optionsBuilder.UseSqlServer("Server = (localdb)\\mssqllocaldb; Database = ObjectData; Trusted_Connection = True; AttachDbFileName=C:\\Databases\\ObjectDB.mdf");
                     break;
+                case "DESKTOP-KPFSER1": //Laptop
+                    optionsBuilder.UseSqlServer("Server = (localdb)\\mssqllocaldb; Database = ObjectData; Trusted_Connection = True; AttachDbFileName=C:\\Databases\\ObjectDB.mdf");
+                    break;
                 default:
                     throw new System.Exception("Please specify the path to the database");
                     optionsBuilder.UseSqlServer("?");
